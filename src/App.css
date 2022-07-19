@@ -67,3 +67,7 @@ a {
   background-color: #f8f9fa;
   border-color: #f8f9fa;
 }
+
+ul {
+  text-align: left;
+}
